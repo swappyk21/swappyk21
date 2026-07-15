@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @swappyk21
+- 👋 Hi, I’m Swapnil
 - 👀 I’m interested in ... coding and esports
-- 🌱 I’m currently learning ... web dev.
+- 🌱 I’m currently learning ...Embedded Software.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... swapnil14114@gmail.com
 
